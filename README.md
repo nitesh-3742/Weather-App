@@ -1,6 +1,6 @@
 # Weather-App
 
-Grant Access Location...
+Grant Location Access...
 <img width="948" alt="image" src="https://user-images.githubusercontent.com/110693011/229358188-79e4d259-2f01-4ad9-918b-e450b1bd0b00.png">
 
 
